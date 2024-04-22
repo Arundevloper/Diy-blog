@@ -1,0 +1,30 @@
+.home{
+    width: 60%;
+}
+.card{
+   cursor: pointer;
+}
+.experimentName{
+  color:#457b9d;
+  font-size: 1.5em !important;
+  font-weight: bold !important;
+}
+
+.card-title{
+  font-size: 0.8em !important;
+ color:#457b9d;
+ font-weight: bold !important;
+}
+.card-text{
+  font-size: 0.8em !important;
+  color:#1d3557 !important;
+
+  
+}
+@media (max-width: 700px) {
+  .container {
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}

@@ -1,0 +1,36 @@
+.viewExperiment{
+    width: 80%;
+}
+.card{
+   cursor: pointer;
+}
+.highlight {
+font-size: 20px !important ;
+color: black;
+font-weight: bold !important;
+
+}
+.view{
+  font-size: 20px !important;
+      color: #457b9d;
+}
+.clap{
+  cursor: pointer;
+   font-size: 20px !important;
+}
+h3{
+    font-size: 30px !important;
+      color: #457b9d;
+
+}
+.desc-bold{
+    font-weight: bolder !important;
+    font-size: 20px !important;
+}
+@media (max-width: 700px) {
+  .container {
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}

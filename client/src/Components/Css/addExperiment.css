@@ -1,0 +1,10 @@
+.add{
+    width: 50%;
+}
+@media (max-width: 700px) {
+  .container {
+    width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
